@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = git://github.com/platform/bootable/recovery
+	projectname = platform/bootable/recovery
+	fetch = +refs/heads/*:refs/remotes/aosp/*

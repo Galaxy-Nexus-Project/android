@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = git://github.com/device/samsung/maguro
+	projectname = device/samsung/maguro
+	fetch = +refs/heads/*:refs/remotes/aosp/*

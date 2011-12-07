@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = git://github.com/device/samsung/tuna
+	projectname = device/samsung/tuna
+	fetch = +refs/heads/*:refs/remotes/aosp/*

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = git://github.com/device/google/accessory/demokit
+	projectname = device/google/accessory/demokit
+	fetch = +refs/heads/*:refs/remotes/aosp/*

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = git://github.com/device/generic/goldfish
+	projectname = device/generic/goldfish
+	fetch = +refs/heads/*:refs/remotes/aosp/*

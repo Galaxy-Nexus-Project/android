@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = git://github.com/platform/bootable/diskinstaller
+	projectname = platform/bootable/diskinstaller
+	fetch = +refs/heads/*:refs/remotes/aosp/*
