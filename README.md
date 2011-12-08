@@ -18,4 +18,4 @@ To install, initialize and configure Rep, follow these steps:
     $ repo init -u git://github.com/Galaxy-Nexus-Project/android.git
 
 * Get the files
-   $ repo sync
+    $ repo sync
