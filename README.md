@@ -7,8 +7,10 @@ Getting Started
 To install, initialize and configure Rep, follow these steps:
 
 * Make sure have a bin/ directory in your home directory and that it is included in your path:
-    $ mkdir ~/bin
-    $ PATH=~/bin:$PATH
+<pre><code>
+$ mkdir ~/bin
+$ PATH=~/bin:$PATH
+</code></pre>
 
 * Download the Repo script and ensure it is executable
     $ curl https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
